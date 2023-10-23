@@ -2,7 +2,7 @@
 
 Soy un ingeniero informático altamente motivado con experiencia en desarrollo de software y soluciones tecnológicas. Me apasiona resolver problemas complejos y crear soluciones innovadoras que impulsen el éxito empresarial. Con habilidades en diversos lenguajes de programación y conocimientos en bases de datos y sistemas, he logrado contribuir a proyectos exitosos en el campo de la informática.
 
-## Tecnologías:
+## Mis conocimientos:
 
 ### 📋 Languages
 
